@@ -63,7 +63,7 @@ if __name__ == '__main__':
     TOPIC = 'air_quality_index'
 
     # Probe the air quality API every REFRESH_TIME seconds
-    REFRESH_TIME = 30*60.0
+    REFRESH_TIME = 10*60.0
 
     def get_latest_data(cities: Tuple[str, ...] = CITIES, token: str = TOKEN) -> dict[str, dict[str, str]]:
         '''

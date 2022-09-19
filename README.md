@@ -1,3 +1,5 @@
+# [Blog post](https://blog.vlgdata.io/post/kafka_stream_air_quality/)
+
 # How to run this project
 
 See also [Get started with Kafka/Python](https://developer.confluent.io/get-started/python/)
